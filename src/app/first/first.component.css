@@ -1,0 +1,20 @@
+.content-first {
+  background-color: white;
+  padding: 20px;
+  max-width: 952.19px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+h1 {
+  color: teal;
+}
+
+h2 {
+  color: yellowgreen;
+
+}
+
+p {
+  color: grey;
+}

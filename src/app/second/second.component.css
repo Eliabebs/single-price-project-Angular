@@ -1,0 +1,34 @@
+.content-second{ 
+    background-color: lightseagreen;
+    padding: 30px;
+    min-height: 228px;
+    background-color: #2bb3b1;
+    border-bottom-left-radius: 10px;
+    max-width: 460px;
+}
+
+button{ 
+    width: 200px;
+    height: 40px;
+    background-color: #bfdf32;
+    border: none;
+    color: white;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+
+span{ 
+    font: small;
+    color: rgb(194, 219, 219);
+}
+
+@media (max-width: 1118px) {
+    .content-second{ 
+      max-width: 375px;
+      min-width: 375px;
+    }
+   
+  }
+  

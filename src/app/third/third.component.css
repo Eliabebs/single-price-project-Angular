@@ -1,0 +1,22 @@
+.content-third{ 
+    background-color: lightskyblue;
+    padding: 30px;
+    min-height: 228px;
+    background-color: #4abebd;
+    border-bottom-right-radius: 10px;
+    max-width: 460px;
+}
+
+p{ 
+    text-align: left;
+    line-height: 25px;
+}
+
+@media (max-width: 1118px) {
+    .content-third{ 
+      max-width: 375px;
+      min-width: 375px;
+    }
+   
+  }
+  

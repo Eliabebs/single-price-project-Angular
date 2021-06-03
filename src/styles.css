@@ -1,1 +1,18 @@
-/* You can add global styles to this file, and also import other style files */
+
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+  }
+  
+  body p { 
+    font-weight: 400;
+    color: white;
+
+  }
+  
+  body h1, h2, h3{
+    color: white;
+    font-weight: 700;
+  }
